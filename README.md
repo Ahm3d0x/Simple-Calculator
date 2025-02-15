@@ -62,6 +62,9 @@ This is a simple calculator application that allows users to perform basic arith
 *   **Location:** Egypt
 *   **Year of Creation:** 2020
 
+## Screenshot
+![Calculator Screenshot](https://github.com/Ahm3d0x/Simple-Calculator/blob/03e615885631370a3b4c14ecf7237580b4a5e65e/image.png)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or want to contribute code, please open an issue or submit a pull request on the GitHub repository.
